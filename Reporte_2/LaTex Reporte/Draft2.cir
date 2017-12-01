@@ -1,0 +1,8 @@
+Circuito practica 2 viernes ac
+V1 1 0 AC 1
+R1 1 2 1.2k
+R2 2 3 1200
+R3 2 0 15k
+L1 3 0 4.20mH
+.ac dec 10 10Hz 500k
+.end

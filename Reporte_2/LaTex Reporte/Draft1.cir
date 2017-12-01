@@ -1,0 +1,8 @@
+* Circuito practica 2 viernes transitorio
+V1 1 0 pulse(0V,5V,0V,0.1ns,0.1ns,0.25ms,0.5ms)
+R1 1 2 1.2k
+R2 2 3 1.2k
+R3 2 0 15k
+L1 3 0 4.20mH
+.tran 1us 0.5ms
+.end
